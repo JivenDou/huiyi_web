@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'PangMenZhengDao';
+  src: url('./PANGMENZHENGDAOBIAOTITI.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DIN_REGULAR';
+  src: url('./DINREGULAR.otf');
+  font-weight: normal;
+  font-style: normal;
+}
